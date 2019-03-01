@@ -1,4 +1,5 @@
-<option value="AF">Afrikanns</option>
+  Last updated: 01/03/2019
+  <option value="AF">Afrikanns</option>
   <option value="SQ">Albanian</option>
   <option value="AM">Amharic</option>
   <option value="AR">Arabic</option>
